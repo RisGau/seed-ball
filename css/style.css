@@ -162,8 +162,8 @@ padding-top: 20px;
 padding-left: 30px;
 }
 .show-container{
-	max-width: 200px;
-	max-height: 200px;
+	max-width: 100px;
+	max-height: 50px;
 	position: relative;
 	margin: auto;
   padding-top: 10px;

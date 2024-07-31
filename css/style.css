@@ -58,7 +58,6 @@ top: 0;
 left: 0;
 }
 
-.img
 
 .center {
   display: block;
@@ -158,6 +157,12 @@ font-size: 15px;
   margin: auto;
 padding-top: 50px;
 padding-left: 100px;
+}
+
+.img
+{
+	height:50px;
+	width:80%
 }
 
 /* Next & previous buttons */

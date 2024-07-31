@@ -149,7 +149,10 @@ cursor: pointer;
 font-weight: 700;
 font-size: 15px;
 }
-
+.img
+{
+	padding:none;
+}
 .slideshow-container {
   max-width: 700px;
   max-height: 600px;

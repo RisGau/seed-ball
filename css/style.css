@@ -154,8 +154,8 @@ font-size: 15px;
 	padding:none;
 }
 .slideshow-container {
-  max-width: 700px;
-  max-height: 600px;
+  max-width: 200px;
+  max-height: 400px;
   position: relative;
   margin: auto;
 padding-top: 20px;

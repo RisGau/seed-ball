@@ -161,14 +161,7 @@ font-size: 15px;
 padding-top: 20px;
 padding-left: 30px;
 }
-.show-container{
-	max-width: 50px;
-	max-height: 20px;
-	position: relative;
-	margin: auto;
-  padding-top: 10px;
-  padding-left: 10px;
-}
+
 
 
 /* Next & previous buttons */

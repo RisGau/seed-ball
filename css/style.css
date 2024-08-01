@@ -97,7 +97,7 @@ color: Violet;
 .img
 {
 	padding-left: 0;
-	
+
 }
 
 #navbar li a:active::after,
@@ -125,6 +125,7 @@ display:flex;
 flex-direction: column;
 align-items:flex-start;
 justify-content: center;
+padding: auto;
 }
 
 #hero .search-container

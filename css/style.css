@@ -51,7 +51,7 @@ align-items: center;
 justify-content: space-between;
 padding: 10px 50px;
 background:cream;
-box-shadow: 0 5px 15px Black ;
+box-shadow: 0 5px 15px rgb(241, 240, 240) ;
 z-index: 999;
 position: sticky-top;
 top: 0;
